@@ -1,5 +1,5 @@
 var Web3 = require("web3");
-var url = "wss://ws-nd-722-543-164.p2pify.com/f0a6b29367ba8093fcc58329f4bf67a1";
+var url = "ADD_YOUR_ETHEREUM_NODE_WSS_URL";
 
 var options = {
   timeout: 30000,
